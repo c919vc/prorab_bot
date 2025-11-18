@@ -1,4 +1,3 @@
 aiogram==3.2.0
 aiofiles
-python-dotenv
-aiohttp
+python-dot
