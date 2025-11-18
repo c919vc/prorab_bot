@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Ali",
+        "phone": "+998 991234567",
+        "amount": 50000,
+        "item": "bolta",
+        "deadline": "2025-11-29",
+        "date": "2025-11-17"
+    },
+    {
+        "id": 2,
+        "name": "bobo",
+        "phone": "909999999",
+        "amount": 100000,
+        "item": "drel",
+        "deadline": "2026-10-24",
+        "date": "2025-11-17"
+    }
+]
